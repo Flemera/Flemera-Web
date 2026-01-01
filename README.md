@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Flemera/.github/main/profile/Flemera_Banner_Rounded.png" width="95%" alt="Flemera Banner">
+</div>
+
 # Flemera Web 🌐
 
 This repository contains the **official website for Flemera**, a community-driven game hosting platform run by Hexoraw.  
